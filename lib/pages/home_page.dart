@@ -141,8 +141,8 @@ class _HomePageState extends State<HomePage> {
                   context: context,
                   builder: (context) {
                     return AlertDialog(
-                      title: const Text("Logout"),
-                      content: const Text("Are you sure you want to logout?"),
+                      title: const Text("Déconnexion"),
+                      content: const Text("vous voulez vous déconnecter"),
                       actions: [
                         IconButton(
                           onPressed: () {
@@ -204,7 +204,7 @@ class _HomePageState extends State<HomePage> {
           return StatefulBuilder(builder: ((context, setState) {
             return AlertDialog(
               title: const Text(
-                "Create a group",
+                "Crée un groupe",
                 textAlign: TextAlign.left,
               ),
               content: Column(
@@ -330,7 +330,7 @@ class _HomePageState extends State<HomePage> {
             height: 20,
           ),
           const Text(
-            "You've not joined any groups, tap on the add icon to create a group or also search from top search button.",
+            "Tu n'a pas encore de groupe. Tu peux en créé un ou sinon recherche un groupe dans la barre de recherche",
             textAlign: TextAlign.center,
           )
         ],

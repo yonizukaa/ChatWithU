@@ -90,7 +90,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                         r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
                                     .hasMatch(val!)
                                 ? null
-                                : "Please enter a valid email";
+                                : "entrez un email valide";
                           },
                         ),
                         const SizedBox(height: 15),
@@ -104,7 +104,7 @@ class _RegisterPageState extends State<RegisterPage> {
                               )),
                           validator: (val) {
                             if (val!.length < 6) {
-                              return "Password must be at least 6 characters";
+                              return "mot de passe de 6 charcater minimum";
                             } else {
                               return null;
                             }
@@ -140,12 +140,12 @@ class _RegisterPageState extends State<RegisterPage> {
                           height: 10,
                         ),
                         Text.rich(TextSpan(
-                          text: "Already have an account? ",
+                          text: "Déja un compte? ",
                           style: const TextStyle(
                               color: Colors.black, fontSize: 14),
                           children: <TextSpan>[
                             TextSpan(
-                                text: "Login now",
+                                text: "Connectez vous",
                                 style: const TextStyle(
                                     color: Colors.black,
                                     decoration: TextDecoration.underline),
