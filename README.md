@@ -1,12 +1,14 @@
-#ChatWithU
+#
+# <p align="center">ChatWithU</p>
 
 
-**Application mobile qui vous permet de chatter en groupe
-**
+**Application mobile qui vous permet de chatter en groupe **
+
+Projet Flutter pour le projet de groupe de l'Efrei (28/11/2023)
 
 1- Apres avoir cloner fait ttention a bien avoir la base données sur firebase
 
-2- Flutter run 
+2- Flutter run
 
 3- Inscrivez vous sur l'application
 
@@ -14,6 +16,9 @@
 
 
 
+# <p align="center">Collaborateurs 👨‍💻<p>
 
 
-
+Johan Marin
+Younes Baali
+Nicola Brosolo
