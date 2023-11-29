@@ -59,7 +59,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
             leading: const Icon(Icons.group),
             title: const Text(
-              "Groups",
+              "Groupes",
               style: TextStyle(color: Colors.black),
             ),
           ),
@@ -82,8 +82,8 @@ class _ProfilePageState extends State<ProfilePage> {
                   context: context,
                   builder: (context) {
                     return AlertDialog(
-                      title: const Text("Logout"),
-                      content: const Text("Are you sure you want to logout?"),
+                      title: const Text("Deconnexion"),
+                      content: const Text("Etes vous sur de partir ?"),
                       actions: [
                         IconButton(
                           onPressed: () {
@@ -115,7 +115,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
             leading: const Icon(Icons.exit_to_app),
             title: const Text(
-              "Logout",
+              "Déconnexion",
               style: TextStyle(color: Colors.black),
             ),
           )
