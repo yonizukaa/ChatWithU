@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
                               fontSize: 40, fontWeight: FontWeight.bold),
                         ),
                         const SizedBox(height: 10),
-                        const Text("Connectez vous sans tarder des gens vous attendent",
+                        const Text("Connectez vous sans tarder. Des gens vous attendent",
                             style: TextStyle(
                                 fontSize: 15, fontWeight: FontWeight.w400)),
                         Image.asset("assets/login.png"),

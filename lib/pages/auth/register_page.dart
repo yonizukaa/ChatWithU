@@ -127,7 +127,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                 shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(30))),
                             child: const Text(
-                              "Register",
+                              "Inscription",
                               style:
                                   TextStyle(color: Colors.white, fontSize: 16),
                             ),
