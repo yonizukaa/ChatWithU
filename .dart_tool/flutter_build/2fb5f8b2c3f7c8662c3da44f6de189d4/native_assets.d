@@ -1,0 +1,1 @@
+ /Users/johanmarin/Desktop/Etude/flutter/chatProjectFlutter/group_chatapp_flutter_firebase/.dart_tool/flutter_build/2fb5f8b2c3f7c8662c3da44f6de189d4/native_assets.yaml: 
