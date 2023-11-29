@@ -15,7 +15,7 @@ Projet Flutter pour le projet de groupe de l'Efrei (28/11/2023)
 4- Parlez et créez des groupes entre amis. Vous pouvez voir rechercher les groupes crée pour chatter avec vos amis
 
 # <p align="center">Look 👨‍💻<p>
-![img.png](img.png)
+![Capture d’écran 2023-11-29 à 16.24.16.png](Capture%20d%E2%80%99%C3%A9cran%202023-11-29%20%C3%A0%2016.24.16.png)
 
 # <p align="center">Collaborateurs 👨‍💻<p>
 
