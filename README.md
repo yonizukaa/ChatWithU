@@ -22,4 +22,4 @@ Projet Flutter pour le projet de groupe de l'Efrei (28/11/2023)
 
 Johan Marin
 Younes Baali
-Nicola Brosolo
+Romain Brosolo
